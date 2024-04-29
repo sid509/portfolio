@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a2ee4796-0494-4194-9ae1-1e8b199c58d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/abroad-info.zip" beforeDir="false" />
@@ -55,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714407014630</updated>
-      <workItem from="1714407015729" duration="302000" />
+      <workItem from="1714407015729" duration="722000" />
     </task>
     <servers />
   </component>
